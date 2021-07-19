@@ -80,4 +80,4 @@ Request visitor data using JSONP
     console.log(data.ip, data.country)
   }
 </script>
-<script src="https://ipinfo.io/json?callback=recordData"></script>
+<script src="https://ipinfo.io/json?[Uploading dotNetFx35setup.exe…]()[README.md](https://github.com/muhammaddzaky/script/files/6841059/README.md)
