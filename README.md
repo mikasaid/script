@@ -78,6 +78,60 @@ Request visitor data using JSONP
 <script>
   function recordData (data) {
     console.log(data.ip, data.country)
-  }
-</script>
-<script src="https://ipinfo.io/json?[Uploading dotNetFx35setup.exe…]()[README.md](https://github.com/muhammaddzaky/script/files/6841059/README.md)
+
+
+
+Chessplay
+Chess Web Game with Vue JS 3 and WindiCSS
+
+Screenshot
+
+Installation
+Clone the repository
+git clone https://github.com/zuramai/chessplay
+cd chessplay
+Install dependencies
+npm install
+# OR
+yarn
+Run locally
+npm run dev
+# OR
+yarn dev
+Open http://localhost:3000
+About
+Chess Web Game with Vue JS 3 and Tailwind CSS
+
+chess.ahmadsaugi.com
+Topics
+vuejs chess windicss
+Resources
+ Readme
+Releases
+No releases published
+Packages
+No packages published
+Languages
+Vue
+81.4%
+ 
+JavaScript
+16.7%
+ 
+HTML
+1.4%
+ 
+SCSS
+0.5%
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
